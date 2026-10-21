@@ -1,0 +1,3 @@
+# Never commit service account keys
+*.json
+*.zip
